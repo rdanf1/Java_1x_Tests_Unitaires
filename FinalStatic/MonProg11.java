@@ -1,5 +1,5 @@
 
-public class MonProg {
+public class MonProg11 {
     public static void main(String[] args) {
         // final String maVariable  = "une variable finale" ;
         
